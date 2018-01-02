@@ -1,2 +1,2 @@
 # hello-world
-just a study example
+just a study example for github
